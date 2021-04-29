@@ -1,4 +1,4 @@
-# bearer-auth
+# auth-api
 
 Author: Peter Staker
 
