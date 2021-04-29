@@ -30,6 +30,6 @@ PR: [https://github.com/peterjast/auth-api/pull/1](https://github.com/peterjast/
 
 > npm run test
 
-## Web Request Response Cycle
+## UML Diagram
 
 ![UML](./src/assets/UML-Diagram.jpg)
